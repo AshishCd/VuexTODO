@@ -2,7 +2,7 @@
   <div class="stats">
     <h1>A different Component</h1>
     <p>There are currently {{countLinks}} links</p>
-    <button v-on:click="removeAll">Remove All Links</button>
+    <button v-on:click="removeAll">Removed All Links</button>
     <p>{{msg}}</p>
   </div>
 </template>
